@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "827275886913",
+    "project_id": "atifasec",
+    "storage_bucket": "atifasec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827275886913:android:2eb41259b6ea654eaba1c0",
+        "android_client_info": {
+          "package_name": "com.example.atifasec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827275886913-ujam1al64cd1559vljhujkq7o50nbns1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzJ3qGWTkAPyCI7Rwdwj1IBzh8VI9Qglk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827275886913-ujam1al64cd1559vljhujkq7o50nbns1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
